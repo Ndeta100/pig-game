@@ -1,2 +1,2 @@
 ##  pig-game
-`Using javascript... ... Pig Dice Game · Ryan Baldoza Unfollow. Run. Pen Editor Menu. Love Settings ... <div class="game-panel">. 4. <div class="player-name"`
+`This is a simple casino-style game in javascript. All you have to do is roll the dice and try to reach 100 points faster than your opponent player. This is a simple dice game with much simple game rules. You will roll the dice and try to earn as many points as you can`.
